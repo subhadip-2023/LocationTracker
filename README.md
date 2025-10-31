@@ -30,3 +30,38 @@ HTML/CSS/JS | Frontend
 
 ## 📂 Folder Structure
 
+project/
+├── public/
+│ ├── css/
+│ │ └── style.css
+│ └── js/
+│ └── script.js
+├── views/
+│ └── index.ejs
+├── app.js
+└── package.json
+
+
+---
+
+## 🚀 Run Locally
+
+### 1️⃣ Clone repo
+
+```bash
+git clone <your-repo-url>
+cd your-project-folder
+
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Start server
+node app.js
+
+4️⃣ Visit in browser
+http://localhost:3000/
+
+🔧 Environment
+Browser must allow GPS location access.
+If denied → map won't update.
+
