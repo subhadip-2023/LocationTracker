@@ -49,8 +49,8 @@ project/
 ### 1️⃣ Clone repo
 
 ```bash
-git clone <your-repo-url>
-cd your-project-folder
+git clone (https://github.com/subhadip-2023/LocationTracker.git)
+cd LocationTracker
 
 2️⃣ Install dependencies
 npm install
